@@ -56,5 +56,5 @@ Note-Run the code step by step, some parts require loading files from CSV or oth
 ## 📎 Citation & Appendix Link
 
 This GitHub repository is referenced in the Appendix of the thesis.  
-📎 **Appendix Link**: [https://github.com/Prakarn-Taranodom/ECCV-framework-clustering](https://github.com/Prakarn-Taranodom/ECCV-framework-clustering)
+📎 **Appendix Link**: [https://github.com/Prakarn-Taranodom/ECCV-TimeSeries-Clustering](https://github.com/Prakarn-Taranodom/ECCV-TimeSeries-Clustering)
 

@@ -50,7 +50,9 @@ This repository contains the source code, data, and supporting materials for the
 1. Install Jupyter Notebook/Colab environment
 2. Run notebooks under `benchmark/` and `real_world/` folders
 3. Make sure to install required packages (e.g., `arch`, `pmdarima`, `scikit-learn`, `tslearn`)
-Note-Run the code step by step, some parts require loading files from CSV or others.
+Note:
+Run the code step by step, some parts require loading files from CSV or others.
+This notebook requires mounting Google Drive if run in Colab or Others. Please replace paths with your own Google Drive paths.
 ---
 
 ## 📎 Citation & Appendix Link

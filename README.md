@@ -27,6 +27,17 @@ This project is organized into two main parts:
 - `RandIndex_NMI_Result.csv`  
    → Clustering evaluation metrics (Rand Index, Normalized Mutual Information) for all methods.
 
+📊 Meta-Feature Summary Files
+
+- `Meta_type_summary_statistics.csv`
+→ Summary statistics of key meta-features (e.g., ACF Lag-1, stationarity ratio, mean, std) grouped by dataset type. Useful for identifying structural patterns and comparing clustering performance across domains.
+
+- `Meta_datasets_statistics.csv`
+→ Dataset-level summary of meta-features for each benchmark dataset, including autocorrelation, stationarity, variability, and skewness metrics. Used for type-level and dataset-level analysis.
+
+- `Meta_type_difference_summary.csv`
+→ Difference in meta-feature values (Δ ACF Lag-1, Δ stationarity ratio) before and after applying CV, grouped by dataset type. This helps analyze how CV transformation structurally alters each data type.
+
 ---
 
 ## 📁 real_world/
